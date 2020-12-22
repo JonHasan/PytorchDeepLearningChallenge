@@ -15,3 +15,7 @@ The network was trained and then a test score was generated determining how accu
 
 The network acheived a 99% accuracy through a combination of Adam optimizer, reduceLROnPlateau scheduler and lr modification after each training session.
 
+## Code 
+
+Download the repository to your computer. You will also need to download pytorch and torchvision
+
