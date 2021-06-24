@@ -17,5 +17,11 @@ The network acheived a 99% accuracy through a combination of Adam optimizer, red
 
 ## Code 
 
-Download the repository to your computer. You will also need to download pytorch and torchvision
+Download the repository to your computer. You will also need to download pytorch and torchvision. 
+
+I personally would recommend downloading an anaconda distribution for your OS and then performing 
+
+`pip install pytorch torchvision`
+
+in a conda environment. Best to keep packages seperate from each other. 
 
