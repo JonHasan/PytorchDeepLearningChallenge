@@ -25,3 +25,12 @@ I personally would recommend downloading an anaconda distribution for your OS an
 
 in a conda environment. Best to keep packages seperate from each other. 
 
+## A return to the past
+
+Thinking about it now in 2021, I kind of feel cheap using a resnet. I know that transfer learning is a valuable thing in deep learning since it can take the weight off of us 
+in terms of making our own network but its basically like trying to say 
+
+`import scikit-learn`
+
+Would make me a machine learning engineer. I don't know. 
+
